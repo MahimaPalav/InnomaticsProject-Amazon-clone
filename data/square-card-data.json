@@ -1,0 +1,679 @@
+[
+  {
+    "id": 1,
+    "keyword": "Kitchen Appliances",
+    "title": "Appliances for your Home |  Up to 55% off",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg",
+        "name": "Air Conditioners",
+        "title": "Air Conditioners",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg",
+        "name": "Refrigerators",
+        "title": "Refrigerators",
+        "redirect_url": "../refrigerator.html",
+        "products": [
+          {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/I/51I44UB4OfL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Godrej 30 L Qube Personal Standard Single door Cooling Solution (TEC Qube 30L HS Q103, Black)",
+            "product_price": 7990,
+            "product_mrp": 8250,
+            "product_rating": 4,
+            "bought_past_month": 200,
+            "discount_percentage": 3,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Godrej",
+            "new_product": true,
+            "free_sheeping": false,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/61SkktKTY6L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Haier 602 L 3 Star Frost Free Expert Inverter 2-Door Side by Side Refrigerator (HRS-682KS, Black Steel, Magic Convertible, Deo Fresh Technology, 2026 Model)",
+            "product_price": 64990,
+            "product_mrp": 109390,
+            "product_rating": 3,
+            "bought_past_month": 100,
+            "discount_percentage": 41,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Haier",
+            "new_product": true,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/71yxMJQhNML._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Haier 596 L 3 Star Frost Free Expert Inverter 2-Door Side by Side Refrigerator (HES-690SS, Shiny Silver, Magic Convertible, Deo Fresh Technology, 2026 Model)",
+            "product_price": 63990,
+            "product_mrp": 101990,
+            "product_rating": 5,
+            "bought_past_month": 100,
+            "discount_percentage": 37,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Haier",
+            "new_product": true,
+            "free_sheeping": false,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/71rpeJFen1L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "LG 655 L, 3 Star, Frost-Free Smart Inverter Double Door Side-By-Side Refrigerator (GL-B257HDSY, Dazzle Steel, Smart Diagnosis, Express Freeze | Multi Air-Flow)",
+            "product_price": 72990,
+            "product_mrp": 110399,
+            "product_rating": 4,
+            "bought_past_month": 200,
+            "discount_percentage": 34,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "LG",
+            "new_product": true,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/61Joboo+RlL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Haier 328 L 3 Star Frost Free Top Mount Double Door Refrigerator | Convertible 10-in-1 | Triple Inverter & Fan Motor Technology | Twist Ice Maker (HEF-333TS-P, Inox Steel)",
+            "product_price": 32990,
+            "product_mrp": 0,
+            "product_rating": 3,
+            "bought_past_month": 0,
+            "discount_percentage": 0,
+            "delivary_date": "",
+            "brand": "Haier",
+            "new_product": false,
+            "free_sheeping": false,
+            "out_of_stock": true,
+            "pay_on_delivary": false
+          },
+          {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/71jzzqmfApL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Samsung 633 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side Refrigerator with AI, WiFi & Water & Ice Dispenser (RS78CG8543S9HL, Silver, Refined Inox)",
+            "product_price": 107990,
+            "product_mrp": 152000,
+            "product_rating": 4,
+            "bought_past_month": 100,
+            "discount_percentage": 29,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Samsung",
+            "new_product": false,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/I/61I6UtVj-+L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi (RS76CG8003S9HL, Silver, Refined Inox)",
+            "product_price": 84990,
+            "product_mrp": 113000,
+            "product_rating": 5,
+            "bought_past_month": 300,
+            "discount_percentage": 25,
+            "delivary_date": "Tue, 7 Jul, 7am - 9pm",
+            "brand": "Samsung",
+            "new_product": true,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/I/61C0GKI6A0L._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Haier 240L 2 Star Frost Free Top Mount Double Door Refrigerator|Cool Pad|200% Faster Ice Making in 49 Minutes (HEF-252EGS-P, Moon Silver)",
+            "product_price": 26490,
+            "product_mrp": 0,
+            "product_rating": 3,
+            "bought_past_month": 0,
+            "discount_percentage": 0,
+            "delivary_date": "",
+            "brand": "Haier",
+            "new_product": true,
+            "free_sheeping": false,
+            "out_of_stock": true,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 9,
+            "image": "https://m.media-amazon.com/images/I/51j8sDiJhZL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Toshiba 439 L 2 Star Frost Free Inverter Air Fall Cooling Double Door (GR-RT559WE-PMI(37, Satin Grey), Free 1 Year Extended warranty",
+            "product_price": 44990,
+            "product_mrp": 70990,
+            "product_rating": 3,
+            "bought_past_month": 100,
+            "discount_percentage": 37,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Toshiba",
+            "new_product": true,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": false
+          },
+          {
+            "id": 10,
+            "image": "https://m.media-amazon.com/images/I/616ra4QyHJL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Haier 358 L 3 Star Frost Free Top Mount Double Door Refrigerator | Convertible 10-in-1 | Triple Inverter & Fan Motor Technology | Twist Ice Maker (HEF-363TS-P, Inox Steel)",
+            "product_price": 39900,
+            "product_mrp": 61590,
+            "product_rating": 4,
+            "bought_past_month": 100,
+            "discount_percentage": 35,
+            "delivary_date": "Mon, 6 Jul",
+            "brand": "Haier",
+            "new_product": false,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 11,
+            "image": "https://m.media-amazon.com/images/I/61ozP-Z7wQL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Haier 190L 5 Star Direct Cool Single Door Refrigerator | 3 Toughened Glass Shelves | Fast Ice Making in Just 60 minutes | Large Veg Box| Easy Clean Back (HED-205DS-P, Dazzle Steel)",
+            "product_price": 17500,
+            "product_mrp": 26990,
+            "product_rating": 4,
+            "bought_past_month": 200,
+            "discount_percentage": 35,
+            "delivary_date": "Mon, 6 Jul",
+            "brand": "Haier",
+            "new_product": false,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          },
+          {
+            "id": 12,
+            "image": "https://m.media-amazon.com/images/I/5117g6cPTQL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Whirlpool 300 L Frost Free Triple-Door Refrigerator(FP 343D Protton Roy, Alpha Steel)",
+            "product_price": 34490,
+            "product_mrp": 48750,
+            "product_rating": 4,
+            "bought_past_month": 100,
+            "discount_percentage": 29,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Whirlpool",
+            "new_product": true,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": false
+          },
+          {
+            "id": 13,
+            "image": "https://m.media-amazon.com/images/I/61fGK+1+4PL._AC_UL480_FMwebp_QL65_.jpg",
+            "product_name": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE ROY 2S WINE BLOOM-Z, With Base Stand, 2023 Model)",
+            "product_price": 14440,
+            "product_mrp": 17900,
+            "product_rating": 4,
+            "bought_past_month": 200,
+            "discount_percentage": 19,
+            "delivary_date": "Sun, 5 Jul, 7am - 9pm",
+            "brand": "Whirlpool",
+            "new_product": false,
+            "free_sheeping": true,
+            "out_of_stock": false,
+            "pay_on_delivary": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg",
+        "name": "Microwaves",
+        "title": "Microwaves",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg",
+        "name": "Washing Machines",
+        "title": "Washing Machines",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "keyword": "Furniture, Decorations",
+    "title": "Rewamp your home in style",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_furnishings_2._SY116_CB555624324_.jpg",
+        "name": "Cusions Covers, Bedsheets & more",
+        "title": "Floor mat",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg",
+        "name": "Figurines, Vases & more",
+        "title": "Figurines",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_storage_1._SY116_CB555624324_.jpg",
+        "name": "Home Storage",
+        "title": "Home Storage",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_lighting_2._SY116_CB555624324_.jpg",
+        "name": "Lighting Solutions",
+        "title": "Lights",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "keyword": "Decorations",
+    "title": "Starting ₹ 49 | Deals on Home Essentials",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Wipes_low_res_V1._SY116_CB549138744_.jpg",
+        "name": "Cleaning supplies",
+        "title": "Scotch brite",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Shower_heads_low_res_V1._SY116_CB549138744_.jpg",
+        "name": "Bathroom accssories",
+        "title": "Shower",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Tools_low_res_V1._SY116_CB549138744_.jpg",
+        "name": "Home Tools",
+        "title": "Tools",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img18/HomeImprovement/harsmisc/2025/March/Wallpapers_low_res_V1._SY116_CB549138744_.jpg",
+        "name": "Wallpapers",
+        "title": "Wallpapers",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "keyword": "Electronics",
+    "title": "Up to 75% off | Deals on Headphones",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/61B5hIAmvdL._AC_SY170_.jpg",
+        "name": "",
+        "title": "boat neckband",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/61+SW9nDTEL._AC_SY170_.jpg",
+        "name": "",
+        "title": "boat neckband",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/I/512jrg8-68L._AC_SY170_.jpg",
+        "name": "",
+        "title": "boat earphone",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/I/71ndbdVgC7L._AC_SY170_.jpg",
+        "name": "",
+        "title": "boat earphone",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "keyword": "Decorations",
+    "title": "Starting ₹199 | Amazon Brands & more",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_2._SY116_CB567468236_.jpg",
+        "name": "Starting ₹199 | Bedsheets",
+        "title": "Bedsheets",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_3._SY116_CB567468236_.jpg",
+        "name": "Starting ₹199 | Curtains",
+        "title": "Curtains",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_4._SY116_CB567468236_.jpg",
+        "name": "Minimum 40% off | Ironing board & more",
+        "title": "Ironing board",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_1._SY116_CB567468236_.jpg",
+        "name": "Up to 60% off | Home decor",
+        "title": "Home decor",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "keyword": "Vehicles",
+    "title": "Automotive essentials | Up to 60% off",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare1X._SY116_CB410830553_.jpg",
+        "name": "Cleaning accessories",
+        "title": "Cleaning accessories",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare1x._SY116_CB410830552_.jpg",
+        "name": "Tyre & rim care",
+        "title": "Tyre",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_186x116._SY116_CB405090404_.jpg",
+        "name": "Helmets",
+        "title": "Helmets",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum1x._SY116_CB410830552_.jpg",
+        "name": "Vacuum cleaner",
+        "title": "Vacuum cleaner",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "keyword": "Electronics, Kitchen Appliances",
+    "title": "Bulk order discounts + 10% Guaranteed cashback",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img26/may/gw/2_186_116_1605._SY116_CB763080337_.jpg",
+        "name": "Electronics & accessories",
+        "title": "Mobile",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img26/may/gw/3_186_116_1605._SY116_CB763080337_.jpg",
+        "name": "Home appliances",
+        "title": "Fan",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img26/may/gw/1_186_116_1605._SY116_CB763080337_.jpg",
+        "name": "Industrial supplies",
+        "title": "Industrial supplies",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/AmazonBusiness/img26/may/gw/ABStackedLogo186_116_1._SY116_CB763080337_.jpg",
+        "name": "Register using GST, Udyam, FSSAI or BPAN",
+        "title": "Amazon Business",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "keyword": "Decorations",
+    "title": "Up to 50% off | Baby care & toys | Amazon Brands",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_2_1x._SY116_CB788857785_.jpg",
+        "name": "Up to 50% off | Baby diapers & wipes",
+        "title": "Baby diapers",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_1_1x._SY116_CB788857785_.jpg",
+        "name": "Up to 50% off | Ride ons",
+        "title": "Ride",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_3_1x._SY116_CB788857785_.jpg",
+        "name": "Starting ₹649 | RC cars",
+        "title": "RC cars",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/PB/GW/PC/PC_QC_372x232_Life-Style_4_1x._SY116_CB788857785_.jpg",
+        "name": "Up to 50% off | Baby safety essentials",
+        "title": "Baby safety",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "keyword": "Beauty Products",
+    "title": "Customer's most loved fashion for you",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/71fFKeHHo7L._AC_SY145_.jpg",
+        "name": "",
+        "title": "Kurta",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/812vmmHIwvL._AC_SY145_.jpg",
+        "name": "",
+        "title": "Shoe",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/I/71Zmqrerm3L._AC_SY145_.jpg",
+        "name": "",
+        "title": "Shoe",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/I/61irmRn+6LL._AC_SY145_.jpg",
+        "name": "",
+        "title": "Women Clothing",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "keyword": "Beauty Products",
+    "title": "Best Sellers in Beauty",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/718F+0RgtfL._AC_SY170_.jpg",
+        "name": "",
+        "title": "Soap",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/51wqZYWGr+L._AC_SY170_.jpg",
+        "name": "",
+        "title": "fash wash",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/I/61Ti2uv6V3L._AC_SY170_.jpg",
+        "name": "",
+        "title": "cetaphil",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/I/71waYmGy3EL._AC_SY170_.jpg",
+        "name": "",
+        "title": "baby wash",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "keyword": "Decorations",
+    "title": "One shop for all your wedding shopping",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Wedding-Store/btf/For_her-1_1x._SY116_CB653484282_.jpg",
+        "name": "Shop for Her",
+        "title": "wedding",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Wedding-Store/btf/For_him-1_1x._SY116_CB653484282_.jpg",
+        "name": "Shop for Him",
+        "title": "wedding",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Wedding-Store/btf/Pooja_essentials-1_1x._SY116_CB653484282_.jpg",
+        "name": "Pooja Essentials",
+        "title": "wedding",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Wedding-Store/btf/Explore_more-1_1x._SY116_CB653484282_.jpg",
+        "name": "Explore the store",
+        "title": "wedding",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "keyword": "Decorations",
+    "title": "Customer's Most Loved Products",
+    "items": [
+      {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/61JjVpkJaeL._AC_SY145_.jpg",
+        "name": "",
+        "title": "Puja",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/71N56Ypp5XL._AC_SY145_.jpg",
+        "name": "",
+        "title": "Puja",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/I/71HP38DIMpL._AC_SY145_.jpg",
+        "name": "",
+        "title": "Pooja",
+        "redirect_url": "",
+        "products": []
+      },
+      {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/I/6157ADwQwTL._AC_SY145_.jpg",
+        "name": "",
+        "title": "Pooja",
+        "redirect_url": "",
+        "products": []
+      }
+    ]
+  }
+]

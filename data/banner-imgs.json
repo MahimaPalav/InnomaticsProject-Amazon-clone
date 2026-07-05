@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "ceo banner",
+    "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/janart26/andy_visit/d1_2x_pc._CB759770844_.jpg",
+    "keyword": "Electronics, announcement"
+  },
+  {
+    "id": 2,
+    "title": "best selling kurtas",
+    "image": "https://images-eu.ssl-images-amazon.com/images/G/31/2025/GW/UNREC/PC/78269._CB785061629_.jpg",
+    "keyword": "Beauty Products, kurtas, fashion"
+  },
+  {
+    "id": 3,
+    "title": "water bottles and lunch boxes",
+    "image": "https://images-eu.ssl-images-amazon.com/images/G/31/CookwareDining/tdhruvko/GW/BAU/June26/PDJune/WBLBUnrec3000x1200._CB759205641_.jpg",
+    "keyword": "Kitchen Appliances, water bottles, lunch boxes"
+  },
+  {
+    "id": 4,
+    "title": "Pool tubes and more",
+    "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/Media/goldnew/toys/PD_2025_Hero_ASINs_PC_3000_1._CB759901139_.jpg",
+    "keyword": "Decorations, pool tubes, toys"
+  },
+  {
+    "id": 5,
+    "title": "bestselling audio",
+    "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/CEPC/Dec/amazonspecial/BFCM25_GW_PC_Hero._CB775393558_.jpg",
+    "keyword": "Electronics, audio, headphones, speakers"
+  },
+  {
+    "id": 6,
+    "title": "t-shirts and polos",
+    "image": "https://images-eu.ssl-images-amazon.com/images/G/31/2025/GW/UNREC/PC/78268._CB785061629_.jpg",
+    "keyword": "Beauty Products, t-shirts, polos, fashion"
+  }
+]

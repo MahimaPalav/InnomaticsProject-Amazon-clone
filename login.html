@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Sign-In</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+    <div class="logo-row">
+        <a href="refrigerator.html" class="logo-link">
+            <img src="./images/amazon-big-logo.png" alt="Amazon" class="logo-img">
+        </a>
+    </div>
+
+    <main class="auth-wrapper">
+        <div class="auth-card">
+
+            <section id="emailStep" class="auth-step">
+                <h1 class="auth-heading">Sign in or create account</h1>
+
+                <form id="emailForm" novalidate>
+                    <label for="emailInput" class="field-label">Enter mobile number or email</label>
+                    <input type="text" id="emailInput" class="text-input" autocomplete="username">
+                    <p class="error-text" id="emailError"></p>
+
+                    <button type="submit" class="primary-btn">Continue</button>
+                </form>
+
+                <p class="terms-text">
+                    By continuing, you agree to Amazon's
+                    <a href="#">Conditions of Use</a> and
+                    <a href="#">Privacy Notice</a>.
+                </p>
+
+                <hr>
+
+                <p class="section-label">Buying for work?</p>
+                <a href="#" class="text-link">Create a free business account</a>
+            </section>
+
+            <section id="passwordStep" class="auth-step hidden">
+                <h1 class="auth-heading">Sign in</h1>
+
+                <p class="identity-line">
+                    <span id="passwordStepEmail"></span>
+                    <a href="#" id="changeEmailLink" class="text-link">Change</a>
+                </p>
+
+                <form id="passwordForm" novalidate>
+                    <label for="passwordInput" class="field-label">Password</label>
+                    <input type="password" id="passwordInput" class="text-input" autocomplete="current-password">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="showPasswordCheckbox">
+                        Show password
+                    </label>
+                    <p class="error-text" id="passwordError"></p>
+
+                    <button type="submit" class="primary-btn">Sign in</button>
+                </form>
+
+                <a href="#" class="text-link forgot-link">Forgot your password?</a>
+
+                <hr>
+
+                <p class="section-label">New to Amazon?</p>
+                <button type="button" id="goToRegisterBtn" class="secondary-btn">Create your Amazon account</button>
+            </section>
+
+            <section id="registerStep" class="auth-step hidden">
+                <h1 class="auth-heading">Create account</h1>
+
+                <form id="registerForm" novalidate>
+                    <label for="nameInput" class="field-label">Your name</label>
+                    <input type="text" id="nameInput" class="text-input" autocomplete="name">
+
+                    <label for="registerEmailInput" class="field-label">Mobile number or email</label>
+                    <input type="text" id="registerEmailInput" class="text-input" autocomplete="username">
+
+                    <label for="registerPasswordInput" class="field-label">Password</label>
+                    <input type="password" id="registerPasswordInput" class="text-input" autocomplete="new-password">
+                    <p class="hint-text">Passwords must be at least 6 characters.</p>
+
+                    <label for="registerConfirmInput" class="field-label">Re-enter password</label>
+                    <input type="password" id="registerConfirmInput" class="text-input" autocomplete="new-password">
+
+                    <p class="error-text" id="registerError"></p>
+
+                    <button type="submit" class="primary-btn">Create your Amazon account</button>
+                </form>
+
+                <p class="terms-text">
+                    By creating an account, you agree to Amazon's
+                    <a href="#">Conditions of Use</a> and
+                    <a href="#">Privacy Notice</a>.
+                </p>
+
+                <hr>
+
+                <p class="section-label">Already have an account?</p>
+                <button type="button" id="goToSigninBtn" class="secondary-btn">Sign in instead</button>
+            </section>
+
+            <section id="successStep" class="auth-step hidden">
+                <h1 class="auth-heading">You're signed in</h1>
+                <p class="identity-line" id="successMessage"></p>
+                <button type="button" id="continueShoppingBtn" class="primary-btn">Continue shopping</button>
+                <button type="button" id="signOutBtn" class="secondary-btn">Sign out</button>
+            </section>
+
+        </div>
+    </main>
+
+    <hr class="page-divider">
+
+    <footer class="auth-footer">
+        <div class="footer-links-row">
+            <a href="#">Conditions of Use</a>
+            <a href="#">Privacy Notice</a>
+            <a href="#">Help</a>
+        </div>
+        <p class="copyright-text">© 1996-2026, Amazon.com, Inc. or its affiliates</p>
+    </footer>
+
+    <script src="./login.js"></script>
+
+</body>
+
+</html>
