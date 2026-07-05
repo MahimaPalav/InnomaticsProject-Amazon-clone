@@ -1053,6 +1053,23 @@ body {
     font-size:10px;
  }
 
+.nav-search-bar select {
+        max-width: 90px;
+        font-size: 13px;
+        padding: 8px 4px;
+    }
+
+    .nav-search-bar input {
+        min-width: 0;
+        padding: 10px 8px;
+        font-size: 14px;
+    }
+
+    .nav-search-bar button {
+        width: 44px;
+        font-size: 18px;
+    }
+
     .carousel-card-container1,
     .carousel-card-container2,
     .carousel-card-container3,
@@ -1085,79 +1102,3 @@ body {
         grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
     }
 }
-
-/* @media (max-width: 576px) {
-
-    .navbar-section {
-        padding: 8px;
-        gap: 8px;
-    }
-
-    .nav-logo img {
-        width: 80px;
-    }
-
-    .nav-search-bar select {
-        max-width: 90px;
-        font-size: 13px;
-        padding: 8px 4px;
-    }
-
-    .nav-search-bar input {
-        min-width: 0;
-        padding: 10px 8px;
-        font-size: 14px;
-    }
-
-    .nav-search-bar button {
-        width: 44px;
-        font-size: 18px;
-    }
-
-    #accountNav p,
-    #accountNav h4 {
-        font-size: 11px;
-    }
-
-    .cart {
-        font-size: 15px;
-    }
-
-    .tabs {
-        gap: 12px;
-        font-size: 14px;
-    }
-
-    .carousel {
-        margin-bottom: 0;
-    }
-
-    .carousel::after,
-    .carousel-control-prev,
-    .carousel-control-next {
-        display: none;
-    }
-
-    .footer-bottom {
-        flex-direction: column;
-        gap: 15px;
-    }
-
-    .nav-footer-links {
-        grid-template-columns: 1fr;
-        width: 90%;
-    }
-
-    .terms_conditions {
-        flex-wrap: wrap;
-        gap: 12px;
-    }
-
-    .signin-section {
-        padding: 40px 15px 20px;
-    }
-
-    .signin-btn {
-        width: 100%;
-    }
-} */
