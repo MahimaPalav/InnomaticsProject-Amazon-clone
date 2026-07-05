@@ -17,7 +17,7 @@
         "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg",
         "name": "Refrigerators",
         "title": "Refrigerators",
-        "redirect_url": "refrigerator.html",
+        "redirect_url": "/ProjectInnomatics-Amazon-clone/refrigerator.html",
         "products": [
           {
             "id": 1,
