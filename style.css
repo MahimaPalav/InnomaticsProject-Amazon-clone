@@ -679,16 +679,18 @@ body {
 .signin-btn {
     width: 300px;
     height: 42px;
-    background: #ffd814;
+    background: #349ef6;
     border: none;
     border-radius: 25px;
     font-size: 18px;
+    font-weight: 500;
     cursor: pointer;
     margin-bottom: 10px;
+    transition: all 0.5s ease-in-out;
 }
 
 .signin-btn:hover {
-    background: #f7ca00;
+    background: #59cef8;
 }
 
 .signin-section p {
@@ -970,14 +972,15 @@ body {
         margin: 10px 0 0;
     }
 
-    .tabs div{
-        display:none;
-        font-size:18px;
+    .tabs div {
+        display: none;
+        font-size: 18px;
     }
 
-    .tabs div:nth-child(1){
-        display:block;
+    .tabs div:nth-child(1) {
+        display: block;
     }
+
     .carousel {
         margin-bottom: 1650px;
     }
@@ -1028,32 +1031,33 @@ body {
 
 @media (max-width: 768px) {
 
-    .hero-container{
+    .hero-container {
         height: 3180px;
     }
-     .carousel {
+
+    .carousel {
         margin-bottom: 0px;
     }
 
-   .carousel-control-prev,
-.carousel-control-next {
-    height: 180px;
-    scale: 0.5;
-}
+    .carousel-control-prev,
+    .carousel-control-next {
+        height: 180px;
+        scale: 0.5;
+    }
 
     .banner-deal-section {
         /* top:250px; */
         position: relative;
         grid-template-columns: 1fr;
         padding: 0 50px;
-        margin-top:-250px;
+        margin-top: -250px;
     }
 
- .deal-container h3{
-    font-size:10px;
- }
+    .deal-container h3 {
+        font-size: 10px;
+    }
 
-.nav-search-bar select {
+    .nav-search-bar select {
         max-width: 90px;
         font-size: 13px;
         padding: 8px 4px;
@@ -1077,10 +1081,11 @@ body {
         padding: 0 15px;
     }
 
-    .carousel-card h3{
+    .carousel-card h3 {
         font-size: 18px;
     }
-    .carousel-card img{
+
+    .carousel-card img {
         height: 100px;
     }
 
