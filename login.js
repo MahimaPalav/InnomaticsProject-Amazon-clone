@@ -1,5 +1,9 @@
-const USERS_KEY = "amazon_clone_users";
-const CURRENT_USER_KEY = "amazon_clone_current_user";
+const USERS_KEY = "amazon_clone_edu_demo_users";
+const CURRENT_USER_KEY = "amazon_clone_edu_demo_current_user";
+
+// This is a self-contained front-end demo. Everything below only reads and
+// writes to this browser's own localStorage — nothing is ever sent to a
+// server, and no data leaves the visitor's device.
 
 // ===== Storage helpers =====
 function getUsers() {

@@ -4,14 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazon Sign-In</title>
+    <title>AmazonClone-EDU Sign-In (Educational Demo)</title>
+    <meta name="robots" content="noindex, nofollow">
     <link rel="stylesheet" href="login.css">
 </head>
 
 <body>
+    <div class="demo-banner">
+        🎓 Educational demo project — not affiliated with Amazon. Do not enter your real email or password. Nothing you type is sent anywhere; it stays in your browser only.
+    </div>
+
     <div class="logo-row">
         <a href="#" class="logo-link">
-            <img src="./images/amazon-clone-logo.png" alt="Amazon" class="logo-img">
+            <img src="./images/amazon-clone-logo.png" alt="AmazonClone-EDU" class="logo-img">
         </a>
     </div>
 
@@ -23,14 +28,14 @@
 
                 <form id="emailForm" novalidate>
                     <label for="emailInput" class="field-label">Enter mobile number or email</label>
-                    <input type="text" id="emailInput" class="text-input" autocomplete="username">
+                    <input type="text" id="emailInput" class="text-input" autocomplete="off">
                     <p class="error-text" id="emailError"></p>
 
                     <button type="submit" class="primary-btn">Continue</button>
                 </form>
 
                 <p class="terms-text">
-                    By continuing, you agree to Amazon's
+                    By continuing, you agree to AmazonClone-EDU
                     <a href="#">Conditions of Use</a> and
                     <a href="#">Privacy Notice</a>.
                 </p>
@@ -51,7 +56,7 @@
 
                 <form id="passwordForm" novalidate>
                     <label for="passwordInput" class="field-label">Password</label>
-                    <input type="password" id="passwordInput" class="text-input" autocomplete="current-password">
+                    <input type="password" id="passwordInput" class="text-input" autocomplete="off" placeholder="Any demo password">
                     <label class="checkbox-label">
                         <input type="checkbox" id="showPasswordCheckbox">
                         Show password
@@ -65,8 +70,8 @@
 
                 <hr>
 
-                <p class="section-label">New to Amazon?</p>
-                <button type="button" id="goToRegisterBtn" class="secondary-btn">Create your Amazon account</button>
+                <p class="section-label">New to AmazonClone-EDU?</p>
+                <button type="button" id="goToRegisterBtn" class="secondary-btn">Create your AmazonClone-EDU account</button>
             </section>
 
             <section id="registerStep" class="auth-step hidden">
@@ -77,22 +82,22 @@
                     <input type="text" id="nameInput" class="text-input" autocomplete="name">
 
                     <label for="registerEmailInput" class="field-label">Mobile number or email</label>
-                    <input type="text" id="registerEmailInput" class="text-input" autocomplete="username">
+                    <input type="text" id="registerEmailInput" class="text-input" autocomplete="off">
 
                     <label for="registerPasswordInput" class="field-label">Password</label>
-                    <input type="password" id="registerPasswordInput" class="text-input" autocomplete="new-password">
-                    <p class="hint-text">Passwords must be at least 6 characters.</p>
+                    <input type="password" id="registerPasswordInput" class="text-input" autocomplete="off" placeholder="Make up any demo password">
+                    <p class="hint-text">This is a demo field — please don't use a real password. Must be at least 6 characters.</p>
 
                     <label for="registerConfirmInput" class="field-label">Re-enter password</label>
-                    <input type="password" id="registerConfirmInput" class="text-input" autocomplete="new-password">
+                    <input type="password" id="registerConfirmInput" class="text-input" autocomplete="off">
 
                     <p class="error-text" id="registerError"></p>
 
-                    <button type="submit" class="primary-btn">Create your Amazon account</button>
+                    <button type="submit" class="primary-btn">Create your AmazonClone-EDU account</button>
                 </form>
 
                 <p class="terms-text">
-                    By creating an account, you agree to Amazon's
+                    By creating an account, you agree to AmazonClone-EDU
                     <a href="#">Conditions of Use</a> and
                     <a href="#">Privacy Notice</a>.
                 </p>
@@ -121,7 +126,7 @@
             <a href="#">Privacy Notice</a>
             <a href="#">Help</a>
         </div>
-        <p class="copyright-text">© 1996-2026, Amazon.com, Inc. or its affiliates</p>
+        <p class="copyright-text">Student project by Mahima for Innomatics Research Labs — built for practice, not affiliated with or endorsed by Amazon.com, Inc.</p>
     </footer>
 
     <script src="./login.js"></script>
